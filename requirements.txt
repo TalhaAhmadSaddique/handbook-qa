@@ -1,0 +1,12 @@
+ipykernel
+pypdf
+langchain
+langchain_qdrant
+qdrant_client
+langchain-community
+python-dotenv
+openai
+langchain-openai
+gradio
+fastapi[all]
+streamlit
